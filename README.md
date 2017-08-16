@@ -125,7 +125,7 @@ Based on [twitter/css-flip](https://github.com/twitter/css-flip) Rules
 * Color gradient
 * Properties after !important will not be flipped!!! [Bug]
 
-## License and Acknowledgements
+## License
 
 Copyright 2017 Ahmed S. El-Afifi <ahmed.s.elafifi@gmail.com>
 
